@@ -20,7 +20,7 @@ pip install torch torchvision torchaudio
 bb
 
 
-##pytorch 다시 활성화하는 방법
+## pytorch 다시 활성화하는 방법
 
 인텔리제이를 끄면 자동으로 비활성화 되고,
 다시 활성화하려면
@@ -30,4 +30,6 @@ cd /Users/leeseoyoung/Desktop/Caps/workspace/pytorch_project  # 프로젝트 폴
 source venv/bin/activate  # 가상환경 다시 활성화
 
 이렇게 하면 됩니다 (_ _)
+
++) 근데 제가 인텔리제이 다시 켜서 실행해보니까 자동으로 활성화되는 것 같아요 위에 작성한 건 비활성화 하고 다시 활성화할 때라고 생각하시면 될 듯 합니다
 
